@@ -35,27 +35,6 @@ The dataset was provided by Sigma Cabs and includes a year’s worth of ride dat
 
 The model we developed accurately predicts the surge pricing type for rides, which can help Sigma Cabs manage demand and supply more effectively. This enables customers to locate available cabs faster, while drivers receive higher-value assignments, enhancing satisfaction for all parties.
 
-## 🛠️ Installation and Setup
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/surge-pricing-prediction.git
-    cd surge-pricing-prediction
-    ```
-
-2. Install required libraries:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Launch Jupyter Notebook and open `surge_pricing_model.ipynb` to run the analysis and train the model:
-
-    ```bash
-    jupyter notebook surge_pricing_model.ipynb
-    ```
-
 ## 🎉 Conclusion
 
 Accurately predicting surge pricing is essential to enhancing efficiency and improving the service experience for Sigma Cabs. With this model, the aggregator can anticipate demand in advance, ensuring a better match between cabs and customers.
