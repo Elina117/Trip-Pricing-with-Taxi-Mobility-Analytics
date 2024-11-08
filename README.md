@@ -6,6 +6,8 @@ This project is focused on developing a machine learning model to predict the su
 
 The **goal** of the project is to create a model that can forecast the surge pricing type for each ride, enabling the company to manage customer expectations and improve driver allocation. This will ensure that customers receive quicker and more reliable service.
 
+> This dataset was sourced from a [Kaggle competition](https://www.kaggle.com/datasets/arashnic/taxi-pricing-with-mobility-analytics) and was part of the coursework for a **Machine Learning Engineering** program. 
+
 ## 📊 Dataset
 
 The dataset was provided by Sigma Cabs and includes a year’s worth of ride data and surge pricing factors. Key features:
